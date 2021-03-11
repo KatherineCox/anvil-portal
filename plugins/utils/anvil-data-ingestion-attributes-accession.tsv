@@ -1,0 +1,264 @@
+name	library:numSubjects	library:dataUseRestriction	library:indication	study_accession
+AnVIL_CCDG_NYGC_NP_Alz_EFIGA_WGS	1177	GRU-IRB-PUB	Alzheimer's disease	phs000496
+AnVIL_CCDG_NYGC_Alz_LOAD_WGS	1049	GRU-IRB-PUB	Alzheimer's disease	phs000160
+AnVIL_CCDG_NYGC_NP_Alz_WHICAP_WGS	148	GRU-IRB-PUB	Alzheimer's disease	phs000496
+AnVIL_CCDG_NYGC_NP_Autism_ACE2_DS-MDS_WGS	142	DS-ASD-MDS-PUB	autism spectrum disorder	phs002042
+AnVIL_CCDG_NYGC_NP_Autism_ACEII_GRU_WGS	757	GRU-MDS-PUB	autism spectrum disorder	phs002042
+AnVIL_CCDG_NYGC_NP_Autism_AGRE_WGS	4601	DS-ASD-IRB	autism spectrum disorder	phs001766
+AnVIL_CCDG_NYGC_NP_Autism_HMCA_WGS	724	DS-ASD-PUB-GSO	autism spectrum disorder	phs001894
+AnVIL_CCDG_NYGC_NP_Autism_SAGE_WGS	1501	DS-ASD-IRB	autism spectrum disorder	phs001740
+AnVIL_CCDG_NYGC_NP_Autism_SSC_WGS	9201	DS-ASD-IRB-COL	autism spectrum disorder	phs001676
+AnVIL_CCDG_NYGC_NP_Autism_AFS_DS_WGS	729	DS-ASD-IRB-PUB-COL-NPO-GSO	autism spectrum disorder	registration pending
+AnVIL_CCDG_NYGC_NP_Autism_CAG_DS_WGS	734	DS-ASD	autism spectrum disorder	phs002004
+AnVIL_CCDG_NYGC_NP_Autism_GASD_GRU_WGS	392	GRU	autism spectrum disorder	registration pending
+AnVIL_CCDG_NYGC_NP_Autism_HFA_DS_WGS	509	DS-ASD-IRB	autism spectrum disorder	phs002044
+AnVIL_CCDG_NYGC_NP_Autism_PELPHREY_ACE_DS_WGS	47	DS-ASD	autism spectrum disorder	phs002043
+AnVIL_CCDG_NYGC_NP_Autism_PELPHREY_ACE_GRU_WGS	197	GRU	autism spectrum disorder	phs002043
+AnVIL_CCDG_NYGC_NP_Autism_SPARK_GRU_WGS	12,590	GRU-IRB-PUB	autism spectrum disorder	registration pending
+AnVIL_CCDG_NYGC_NP_Autism_SEARCHLIGHT_DS_WGS	389	DS-ASD-IRB	autism spectrum disorder	registration pending
+AnVIL_CCDG_NYGC_NP_Autism_TASC_WGS	905	DS-ASD-IRB	autism spectrum disorder	phs001741
+AnVIL_CCDG_WashU_AI_T1D_T1DGC_WGS	3397	DS-DRC-IRB-NPU	type 1 diabetes mellitus	phs001222
+AnVIL_CCDG_WashU_CVD_EOCAD_BioImage_WGS	922	DS-CVD	heart and blood vessel disease	registration pending
+AnVIL_CCDG_WashU_CVD_EOCAD_BioMe_WGS	648	GRU	coronary artery disease	phs001155
+AnVIL_CCDG_WashU_CVD_EOCAD_BioVu_WGS	624	HMB-GSO	coronary artery disease	phs001873
+AnVIL_CCDG_WashU_CVD_Brazil-CVD_WGS	3608	DS-IRB-MDS	coronary artery disease	registration pending
+AnVIL_CCDG_WashU_CVD_EOCAD_Cleveland_WGS	348	DS-CAD-IRB-COL-NPU	coronary artery disease	phs001871
+AnVIL_CCDG_WashU_CVD_Corogene_WGS	547	DS-CAD-PUB-MDS	coronary artery disease'}	registration pending
+AnVIL_CCDG_WashU_CVD_EOCAD_Duke_WGS	1051	DS-CVD-IRB	heart and blood vessel disease	phs001506
+AnVIL_CCDG_WashU_CVD_EOCAD_Emerge_WGS	277	GRU-IRB	coronary artery disease	phs001913
+AnVIL_CCDG_WashU_CVD_EOCAD_Emory_WGS	430	GRU-NPU	coronary artery disease	phs001880
+AnVIL_CCDG_WashU_CVD_Eufam_WGS	87	DS-LMC-IRB	coronary artery disease	registration pending
+AnVIL_CCDG_WashU_CVD_EOCAD_Finland-CHD_WGS	155	GRU-IRB-NPU	coronary artery disease	registration pending
+AnVIL_CCDG_WashU_CVD_EOCAD_Harvard-Costa-Rica_WGS	3088	DS-CVDRF	cardiovascular disease and risk factors	phs002282
+AnVIL_CCDG_WashU_CVD_Indiana_WGS	1175	GRU	coronary artery disease	registration pending
+AnVIL_CCDG_WashU_CVD_Kanazawa_WGS	273	HMB-NPU	cardiovascular disease	registration pending
+AnVIL_CCDG_WashU_CVD_Wisconsin_WGS	84	GRU-IRB-COL	coronary artery disease	registration pending
+AnVIL_CCDG_WashU_CVD_MultiEthnic_WGS	7319	HMB-PUB	coronary artery disease	registration pending
+AnVIL_CCDG_WashU_CVD_EOCAD_METSIM_WGS	9477	GRU-IRB-NPU	coronary artery disease	phs001579
+AnVIL_PAGE_MEC_GRU_WGS	70	GRU	N/A	phs000220
+AnVIL_PAGE_BioMe_GRU_WGS	307	GRU	N/A	phs000925
+AnVIL_PAGE_Stanford_Global_Reference_Panel_GRU_WGS	78	GRU	N/A	phs001033
+AnVIL_PAGE_WHI_HMB-IRB_WGS	235	HMB-IRB	N/A	phs000227
+AnVIL_CCDG_WashU_CVD_EOCAD_Penn_WGS	1356	HMB-IRB-PUB	coronary artery disease	phs001502
+AnVIL_CCDG_WashU_CVD_EOCAD_WashU-CAD_DS_WGS	19	DS-ATHSCL-IRB-MDS	atherosclerosis'}	phs001227
+AnVIL_CCDG_WashU_CVD_EOCAD_WashU-CAD_GRU-IRB_WGS	326	GRU-IRB	atherosclerosis'}	phs001227
+AnVIL_CCDG_WashU_CVD-NP-AI_Controls_VCControls_WGS	112	GRU	N/A	registration pending
+AnVIL_CCDG_WashU_CVD_SCCS_WGS	4326	HMB-IRB-PUB-COL	coronary artery disease	registration pending
+AnVIL_CCDG_WashU_CVD_WHI_WGS	886	HMB-IRB	coronary artery disease	registration pending
+AnVIL_CCDG_Baylor_CVD_AFib_BioVU_WGS	1122	HMB, NPU, GSO	atrial fibrillation	phs001624
+AnVIL_CCDG_Baylor_CVD_AFib_Groningen_WGS	639	GRU	atrial fibrillation	registration pending
+AnVIL_CCDG_Baylor_CVD_EOCAD_BioMe_WGS	1201	GRU	cardiovascular system disease	registration pending
+AnVIL_CCDG_Baylor_CVD_EOCAD_SoL_WGS	9083	HMB, NPU, COL	cardiovascular system disease	phs001395
+AnVIL_CCDG_Baylor_CVD_HemStroke_ERICH_WGS	2558	HMB-IRB	Hemorrhagic Stroke	registration pending
+AnVIL_CCDG_Baylor_CVD_ARIC	8976	HMB-IRB, COL	cardiovascular system disease	phs001211
+AnVIL_CCDG_Baylor_CVD_HHRC_Brownsville_GRU_WGS	276	GRU	cardiovascular system disease	registration pending
+AnVIL_CCDG_Baylor_CVD_Oregon_SUDS_GRU_WGS	2216	GRU-IRB	cardiovascular system disease	registration pending
+AnVIL_CCDG_Baylor_CVD_Ventura_Presto_GRU-IRB_WGS	584	DS	cardiovascular system disease	registration pending
+AnVIL_CCDG_Baylor_CVD_HemStroke_Regards_DS_WGS	121	DS	Hemorrhagic Stroke	registration pending
+AnVIL_CCDG_Baylor_CVD_TexGen_DS_WGS	6461	DS	cardiovascular system disease	registration pending
+AnVIL_CCDG_Baylor_CVD_HemStroke_Yale_HMB_WGS	185	HMB	Hemorrhagic Stroke	registration pending
+AnVIL_CCDG_Baylor_CVD_AFib_VAFAR_HMB-IRB_WGS	253	HMB-IRB	atrial fibrillation	registration pending
+AnVIL_CCDG_Baylor_CVD_HemStroke_BNI_HMB_WGS	160	HMB	Hemorrhagic Stroke	registration pending
+AnVIL_CCDG_Baylor_CVD_HemStroke_Duke_DS_WGS	60	DS	Hemorrhagic Stroke	registration pending
+AnVIL_CCDG_Baylor_CVD_HemStroke_GERFHS_HMB_WGS	412	HMB	Hemorrhagic Stroke	registration pending
+AnVIL_ccdg_asc_ndd_daly_talkowski_ac-boston_asd_exome	757	DS-ASD	autism spectrum disorder	registration pending
+AnVIL_ccdg_asc_ndd_daly_talkowski_AGRE_asd_exome	439	DS-ASD	autism spectrum disorder	phs001766
+AnVIL_ccdg_asc_ndd_daly_talkowski_AGRE-FEMF_asd_exome	405	DS-ASD	autism spectrum disorder	registration pending
+AnVIL_ccdg_asc_ndd_daly_talkowski_aleksic_asd_exome	699	GRU	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_barbosa_asd_exome	213	GRU	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_brusco_asd_exome	1933	GRU	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_chung_asd_exome	515	DS-ASD	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_control_NIMH_asd_exome	370	GRU	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_domenici_asd_exome	713	DS-ASD	autism spectrum disorder	registration pending
+AnVIL_ccdg_asc_ndd_daly_talkowski_gargus_asd_exome	129	DS-ASD	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_goethe_asd_exome	1965	DS-ASD	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_herman_asd_exome	49	DS-ASD	autism spectrum disorder	registration pending
+AnVIL_ccdg_asc_ndd_daly_talkowski_hertz-picciotto_asd_exome	1537	DS-ASD	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_hertz-picciotto_asd_wgs	65	DS-ASD	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_hultman_asd_exome	1765	GRU	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_kolevzon_asd_exome	1128	GRU	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_kolevzon_asd_wgs	27	GRU	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_lattig_asd_exome	290	GRU	autism spectrum disorder	registration pending
+AnVIL_ccdg_asc_ndd_daly_talkowski_mcpartland_asd_exome	518	DS-ND	autism spectrum disorder	registration pending
+AnVIL_ccdg_asc_ndd_daly_talkowski_menashe_asd_exome	557	DS-ASD	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_minshew_asd_exome	239	DS-ASD	autism spectrum disorder	registration pending
+AnVIL_ccdg_asc_ndd_daly_talkowski_palotie_asd_exome	153	DS-ASD	autism spectrum disorder	available through EGA
+AnVIL_ccdg_asc_ndd_daly_talkowski_parellada_asd_exome	2741	DS-ASD	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_passos-bueno_asd_exome	752	DS-ASD	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_pericak-vance_asd_exome_	108	HMB	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_pericak-vance_asd_wgs	295	HMB	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_persico_asd_exome	471	GRU-NPU	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_puura_asd_exome	209	NA	autism spectrum disorder	available through EGA
+AnVIL_ccdg_asc_ndd_daly_talkowski_renieri_asd_exome	623	DS-MH	autism spectrum disorder	phs000298
+AnVIL_ccdg_asc_ndd_daly_talkowski_TASC_asd_exome	3173	DS-ASD	autism spectrum disorder	registration pending
+AnVIL_ccdg_asc_ndd_daly_talkowski_weiss_asd_exome	41	DS-ASD	autism spectrum disorder	phs000298
+anvil_ccdg_broad_ai_ibd_daly_bernstein_wes	536	NA	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_chung_gider_wes	436	DS-GI,18+	inflammatory bowel disease	
+anvil_ccdg_broad_ai_ibd_daly_franchimont_wes	2247	DS-GI	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_kupcinskas_wes	2285	HMP-NPU-MDS	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_lewis_ccfa_wes	2187	GRU	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_louis_wes	1518	GRU	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_mccauley_wes	1468	HMB	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_niddk_cho_wes	4473	HMB-MDS	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_stampfer_wes	1489	HMB-MDS	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_vermeire_wes	3985	DS-GI	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_xavier_prism_wes	2753	DS-GI	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_xavier_share_wes	732	DS-IBD-MDS	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_niddk_daly_brant_wes	164	DS-GI	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_niddk_daly_duerr_wes	100	HMB-MDS	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_niddk_daly_silverberg_wes	598	DS-IBD	inflammatory bowel disease	registration pending
+anvil_nhgri_broad_ibd_daly_kugathasan_wes	546	GRU	inflammatory bowel disease	registration pending
+anvil_nhgri_broad_ibd_daly_turner_wes	155	GRU	inflammatory bowel disease	registration pending
+anvil_nhgri_broad_ibd_daly_winter_wes	412	DS-IBD	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_alm_gmc_wes	282	HMB	inflammatory bowel disease	phs002205
+anvil_ccdg_broad_ai_ibd_daly_newberry_share_wes	885	DS-IBD	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_faubion_share_wes	904	DS-IBD	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_daly_igsr_1kg_twist_wes	669	GRU	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_hyams_protect_wes	418	GRU	inflammatory bowel disease	registration pending
+anvil_ccdg_broad_ai_ibd_daly_moayyedi_imagine_wes	1305	NA	inflammatory bowel disease	registration pending
+AnVIL_CCDG_Broad_AI_IBD_Cho_WGS	253	HMB	inflammatory bowel disease	phs001642
+AnVIL_CCDG_Broad_AI_IBD_Kugathasan_WGS	1348	GRU	inflammatory bowel disease	phs001642
+AnVIL_CCDG_Broad_AI_IBD_McCauley_WGS	1087	HMB	inflammatory bowel disease	phs001642
+AnVIL_CCDG_Broad_AI_IBD_McGovern_WGS	1565	GRU	inflammatory bowel disease	phs001642
+AnVIL_CCDG_Broad_AI_IBD_Newberry_WGS	25	DS-GI	inflammatory bowel disease	phs001642
+AnVIL_CCDG_Broad_AI_IBD_Brant_DS-IBD_WGS	177	DS-GI	inflammatory bowel disease	phs001642
+AnVIL_CCDG_Broad_AI_IBD_Brant_HMB_WGS	904	DS-GI	inflammatory bowel disease	phs001642
+AnVIL_CCDG_Broad_CVD_AFib_AFLMU_WGS	248	NA	atrial fibrillation	phs001543
+AnVIL_CCDG_Broad_CVD_AFib_Duke_WGS	123	DS, IRB	atrial fibrillation	phs001600
+AnVIL_CCDG_Broad_CVD_AFib_GENAF_WGS	90	HMB-NPU	atrial fibrillation	phs001547
+AnVIL_CCDG_Broad_CVD_AFib_Intermountain_WGS	464	NA	atrial fibrillation	phs001545
+AnVIL_CCDG_Broad_CVD_AFib_JHU_WGS	290	NA	atrial fibrillation	phs001598
+AnVIL_CCDG_Broad_CVD_AFib_MGH_WGS	105	NA	cardiovascular system disease	phs001062
+AnVIL_CCDG_Broad_CVD_AFib_MPP_WGS	118	HMB-NPU-MDS	atrial fibrillation	phs001544
+AnVIL_CCDG_Broad_CVD_AFib_Penn_WGS	418	HMB-IRB-PUB	atrial fibrillation	phs001601
+AnVIL_CCDG_Broad_CVD_AFib_UCSF_WGS	112	NA	atrial fibrillation	phs001933
+AnVIL_CCDG_Broad_CVD_AFib_Vanderbilt-Ablation_WGS	2	HMB	atrial fibrillation	phs000997
+AnVIL_CCDG_Broad_CVD_EOCAD_PartnersBiobank_HMB_Arrays	13153	NA	NA	phs002018
+ANVIL_CCDG_Broad_CVD_EOCAD_PROMIS_ARRAY	0			phs001569
+AnVIL_CCDG_Broad_CVD_EOCAD_PROMIS_WGS	1136	GRU	myocardial infarction	phs001569
+AnVIL_CCDG_Broad_CVD_EOCAD_TaiChi_WGS	773	DS-CVD-IRB-COL-MDS	cardiovascular system disease	phs001487
+AnVIL_CCDG_Broad_CVD_EOCAD_VIRGO_WGS	2159	DS-Cardiology Genetics Research, MDS	cardiovascular system disease	phs001259
+AnVIL_CCDG_Broad_CVD_Stroke_BRAVE_WGS	496	GRU	myocardial infarction	phs001398
+AnVIL_CCDG_Broad_CVD_AF_PEGASUS_HMB	7483	HMB	atrial fibrillation	phs002243
+AnVIL_CCDG_Broad_CVD_AF_BioVU_HMB_GSO_WES	3987	HMB-GSO	atrial fibrillation	phs001624
+AnVIL_CCDG_Broad_CVD_EOCAD_PartnersBiobank_HMB_WES	13356	HMB	myocardial infarction	phs002018
+AnVIL_CCDG_Broad_CVD_PROMIS_GRU_WES	16808	GRU	myocardial infarction	phs001569
+AnVIL_CCDG_Broad_MI_ATVB_DS_CVD_WES	58	DS-CVD	myocardial infarction	phs001592
+AnVIL_CCDG_Broad_MI_BRAVE_GRU_WES	1496	GRU	myocardial infarction	phs001398
+AnVIL_CCDG_Broad_MI_UnivUtah_DS_CVD_WES	1471	DS-CVD	myocardial infarction	registration pending
+AnVIL_CCDG_Broad_NP_Autism_State-Sanders_WGS	534	NA	autism spectrum disorder	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_AUSAUS_EP_BA_CN_ID_MDS_WES	1468	EPIL_BRAINAB_CONVUL_INTELCT_DIS_MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_AUSAUS_EPI_BA_ID_MDS_WES	24	EPIL_BRAIN_AB_INTEL_DIS_MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_AUSAUS_EPIL_BA_MDS_WES	11	EPIL_BRAIN_AB_MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_AUSRMB_DS-EAED-MDS_WES	354	DS-EAED-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_BELATW_GRU_WES	107	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_BELULB_DS-EP-NPU_WES	380	DS-EP-NPU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_CANUTN_DS-EP_WES	124	DS-EP	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_CHEUBB_HMB_IRB_MDS_WES	47	HMB-IRB-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_CYPCYP_HMB_NPU_MDS_WES	148	HMB-NPU-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_CZEMTH_GRU_WES	16	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_DEUUGS_DS_EP_MDS_WES	389	DS-EP-MDS	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_DEUUKB_HMB_NPU_MDS_WES	2337	HMB-NPU-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_DEUUKL_HMB_WES	194	HMB	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_DEUULG_GRU_WES	90	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_DEUPUM_HMB_MDS_WES	264	HMB-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_DEUUTB_HMB-NPU-MDS_WES	1032	HMB-NPU-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_FINKPH_EPIL_CO_MORBIDI_MDS_WES	787	EPIL_CO_MORBIDI_MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_FINUVH_HMB_NPU_MDS_WES	100	HMB-NPU-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_GBRSWU_CARDI_NEURO_WES	235	DS-CARDI_NEURO	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_GBRUCL_DS_EARET_MDS_WES	684	DS-EARET-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_GBRUNL_EP_ETIOLOGY_MDS_WES	458	DS-EP-ETIOLOGY-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_GBRUNL_GRU_WES	55	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_GHAKNT_GRU_WES	643	GRU	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_HKGHKK_HMB_MDS_WES	337	HMB-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_HKOSB_GRU_WES	112	GRU	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_HRVUZG_HMB_MDS_WES	36	HMB-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_IRLRCI_GRU_IRB_WES	873	GRU-IRB	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_ITAICB_HMB_NPU_MDS_WES	341	HMB-NPU-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_ITAIGI_GRU_WES	982	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_ITAUBG_DS_EPI_NPU_MDS_WES	486	DS-EPI-NPU-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_ITAUMC_DS_NEURO_MDS_WES	337	DS-NEURO-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_ITAUMR_GRU_NPU_WES	1046	GRU-NPU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_JPNFKA_GRU_WES	368	GRU	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_JPNRKI_DS_NPD_IRB_NPU_WES	94	DS-NPD-IRB-NPU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_KENKIL_GRU_WES	448	GRU	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_LEBABM_DS_Epilepsy_WES	140	DS-EP	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_LEBABM_GRU_WES	347	GRU	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_LTUUHK_HMB_NPU_MDS_WES	296	HMB-NPU-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_NZLUTO_EPIL_BC_ID_MDS_WES	224	DS-EPIL-BC-ID-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_TURBZU_GRU_WES	208	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_TURIBU_DS_NEURO_AD_NPU_WES	163	DS-NEURO-AD-NPU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_TWNCGM_HMB-NPU-ADULTS_WES	888	HMB-NPU-ADULTS	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USABCH_EPI_MUL_CON_MDS_WES	304	DS-EPI-MUL-CON-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USABLC_GRU-NPU_WES	223	GRU-NPU	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USACCF_HMB-MDS_WES	336	HMB-MDS	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USACCH_DS_NEURO_MDS_WES	358	DS-NEURO-MDS	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USACHP_GRU_WES	1387	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USACRW_DS_EP_MDS_WES	326	DS-EP-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USACRW_DS_SEIZD_WES	152	DS-SEIZD	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USACRW_EPI_ASZ_MED_MDS_WES	37	DS-EPI-ASZ-MED-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USAEGP_GRU_WES	127	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USAFEB_GRU_WES	31	GRU	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USAHEP_GRU_WES	201	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USAMGH_HMB_MDS_WES	20	HMB-MDS	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USAMGH_MGBB_HMB_MDS_WES	44	HMB-MDS	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USAMON_GRU_WES	169	GRU	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USAMON_GRU_NPU_WES	1	GRU-NPU	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USAMON_GRU_GSRS_WES	21	GRU-GSRS	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USAMSS_DS_EP_NEURO_MDS_WES	102	DS-EP-NEURO-MDS	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_USANCH_DS_NEURO_MDS_WES	313	DS-NEURO-MDS	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USAUPN_Marsh_GRU_WES	196	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USAUPN_Marsh_GRU_NPU_WES	17	GRU-NPU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USAUPN_Rader_GRU_WES	349	GRU	epilepsy	phs001489
+AnVIL_CCDG_Broad_NP_Epilepsy_USAVAN_HMB-GSO_WES	2454	HMB-GSO	epilepsy	registration pending
+AnVIL_CCDG_Broad_NP_Epilepsy_ZAFAGN_DS-EPI-COMO-MDS_WES	503	DS-EPI-COMO-MDS	epilepsy	registration pending
+AnVIL_CCDG_Broad_Spalletta_HMB_NPU_MDS_WES	102	HMB-NPU	control	phs001489
+AnVIL_CCDG_NHGRI_Broad_ASD_Daly_phs000298_WES_vcf		NA	autism spectrum disorder	registration pending
+AnVIL_CCDG_TOPMED_Broad_CVD_EOCAD_PROMIS_WGS	3849	NA	myocardial infarction	
+AnVIL_CCDG_NYGC_AI_Asthma_Gala2_WGS	1171	DS-Lung Diseases, Ancestry, Drug Response, IRB, COL	asthma	phs000920
+AnVIL_CCDG_NYGC_NP_Alz_LOAD_WGS	1049	GRU-IRB-PUB	Alzheimer's disease	phs000160
+AnVIL_CCDG_NYGC_NP_Autism_ACE2_GRU-MDS_WGS	508	GRU-MDS-PUB	autism spectrum disorder	phs002042
+AnVIL_CMG_Broad_Blood_Fleming_WES		NA		registration pending
+AnVIL_CMG_Broad_Blood_Gazda_WES	51	DS-BFD-MDS		phs001272
+AnVIL_CMG_Broad_Blood_Gazda_WGS		DS-BFD-MDS		phs001272
+AnVIL_CMG_Broad_Blood_Sankaran_WES	277	DS-BFD-MDS		phs001272
+AnVIL_CMG_Broad_Blood_Sankaran_WGS		DS-BFD-MDS		phs001272
+AnVIL_CMG_Broad_Brain_Engle_WGS				phs001272
+AnVIL_CMG_Broad_Brain_Gleeson_WES	1181	HMB-MDS		phs001272
+AnVIL_CMG_Broad_Brain_Gleeson_WGS		HMB-MDS		phs001272
+AnVIL_CMG_Broad_Brain_Sherr_WES		NA		registration pending
+AnVIL_CMG_Broad_Eye_Pierce_WES	602	GRU		phs001272
+AnVIL_CMG_Broad_Eye_Pierce_WGS	35	GRU		phs001272
+AnVIL_CMG_Broad_Genitourinary_Hirschhorn_WES	48	NA		registration pending
+AnVIL_CMG_Broad_Heart_PCGC-Tristani_WGS	45	NA		registration pending
+AnVIL_CMG_Broad_Heart_Seidman_WES	129	DS-CSD-MDS		phs001272
+AnVIL_CMG_Broad_Heart_Seidman_WGS		DS-CSD-MDS		phs001272
+AnVIL_CMG_Broad_Heart_Ware_WES	10	DS-CVD-MDS		phs001272
+AnVIL_CMG_Broad_Kidney_Hildebrandt_WES	1222	NA		phs001272
+AnVIL_CMG_Broad_Kidney_Hildebrandt_WGS	27	NA		phs001272
+AnVIL_CMG_Broad_Kidney_Pollak_WES		NA		registration pending
+AnVIL_CMG_Broad_Muscle_Beggs_WES	109	DS-NEURO-GSO-MDS		phs001272
+AnVIL_CMG_Broad_Muscle_Bonnemann_WES	24	GRU		phs001272
+AnVIL_CMG_Broad_Muscle_Bonnemann_WGS	94	GRU		phs001272
+AnVIL_CMG_Broad_Muscle_Kang_WES	49	NA		phs001272
+AnVIL_CMG_Broad_Muscle_Kang_WGS	2	NA		phs001272
+AnVIL_CMG_Broad_Muscle_KNC_WES	44	DS-NIC-EMP-LENF		phs001272
+AnVIL_CMG_Broad_Muscle_KNC_WGS	14	DS-NIC-EMP-LENF		phs001272
+ANVIL_CMG_Broad_Muscle_Laing_WES	31	HMB-MDS		phs001272
+AnVIL_CMG_Broad_Muscle_Myoseq_WES	1280	HMB-MDS		registration pending
+AnVIL_CMG_Broad_Muscle_Myoseq_WGS	13	HMB-MDS		registration pending
+AnVIL_CMG_Broad_Muscle_OGrady_WES	73	GRU		registration pending
+AnVIL_CMG_Broad_Muscle_Ravenscroft_WES	35	HMB-MDS		phs001272
+AnVIL_CMG_Broad_Muscle_Topf_WES	723	HMB-MDS		registration pending
+AnVIL_CMG_Broad_Orphan_Chung_WGS	102	NA		registration pending
+AnVIL_CMG_Broad_Orphan_Estonia-Ounap_WES	25	GRU		registration pending
+AnVIL_CMG_Broad_Orphan_Estonia-Ounap_WGS	115	GRU		registration pending
+AnVIL_CMG_Broad_Orphan_Manton_WES	268	GRU		phs001272
+AnVIL_CMG_Broad_Orphan_Manton_WGS	7	GRU		phs001272
+AnVIL_CMG_Broad_Orphan_Scott_WES		NA		registration pending
+AnVIL_CMG_Broad_Orphan_VCGS-White_WES	447	HMB-MDS		phs001272
+AnVIL_CMG_Broad_Orphan_VCGS-White_WGS	66	HMB-MDS		phs001272
+AnVIL_CMG_Broad_Rare_RGP_WGS	563	NA		phs001272
+AnVIL_CCDG_WashU_AI_T1D_T1DGC_WGS	3397	DS-DRC-IRB-NPU	type 1 diabetes mellitus	phs001222
+AnVIL_CCDG_WashU_CVD_EOCAD_METSIM_WGS	9477	GRU-IRB-NPU	coronary artery disease	phs001579
+AnVIL_CCDG_WashU_CVD_EOCAD_WashU-CAD_GRU-IRB_WGS	265	GRU-IRB	atherosclerosis'}	phs001227
