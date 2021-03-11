@@ -92,6 +92,12 @@ static/site-search-index.json
 static/workspace-fields-report.csv
 plugins/gatsby-plugin-workspace-fields-report/prod-workspaces-sb-all.json
 
+# Dashboard AnVIL
+plugins/utils/anvil-data-ingestion-attributes.tsv
+plugins/utils/anvil-data-ingestion-attributes-accession.tsv
+plugins/utils/terra-data-ingestion-attributes-counts.tsv
+plugins/utils/terra-data-ingestion-attributes-file-size.tsv
+
 # Dashboard Report AnVIL Studies
 static/dashboard-report-anvil-studies.csv
 
