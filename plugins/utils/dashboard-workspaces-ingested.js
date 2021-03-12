@@ -94,6 +94,11 @@ const getIngestedWorkspaces = async function getIngestedWorkspaces() {
  */
 function buildIngestedDatum(datum, key) {
 
+    if ( ALLOW_LIST_WORKSPACE_FIELD_NUMBER.includes(key) ) {
+
+        return Number(datum.replace(/,/g, ""));
+    }
+
     const value = formatIngestedDatum(datum, key);
 
     if ( ALLOW_LIST_WORKSPACE_FIELD_ARRAY.includes(key) ) {
@@ -111,11 +116,6 @@ function buildIngestedDatum(datum, key) {
 
                 return acc;
             }, []);
-    }
-
-    if ( ALLOW_LIST_WORKSPACE_FIELD_NUMBER.includes(key) ) {
-
-        return Number(value.replace(/,/g, ""));
     }
 
     return value;
@@ -320,6 +320,7 @@ function formatIngestedDatum(datum, key) {
     /* Disease. */
     if ( key === HEADERS_TO_WORKSPACE_KEY[INGESTION_HEADERS_TO_WORKSPACE_KEY.DISEASES] ) {
 
+        // TODO review multiple diseases
         if ( DENY_LIST_TERMS.includes(datum.toUpperCase()) ) {
 
             return "--";
