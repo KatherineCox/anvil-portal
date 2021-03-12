@@ -317,11 +317,21 @@ function formatIngestedDatum(datum, key) {
         return WORKSPACE_CONSORTIUM_DISPLAY_VALUE[consortium] || consortium;
     }
 
+    /* Data Types. */
+    if ( key === HEADERS_TO_WORKSPACE_KEY[INGESTION_HEADERS_TO_WORKSPACE_KEY.DATA_TYPES] ) {
+
+        // TODO review deny list duplication, multiple data types
+        if ( datum && DENY_LIST_TERMS.includes(datum.toUpperCase()) ) {
+
+            return "--";
+        }
+    }
+
     /* Disease. */
     if ( key === HEADERS_TO_WORKSPACE_KEY[INGESTION_HEADERS_TO_WORKSPACE_KEY.DISEASES] ) {
 
         // TODO review multiple diseases
-        if ( DENY_LIST_TERMS.includes(datum.toUpperCase()) ) {
+        if ( datum && DENY_LIST_TERMS.includes(datum.toUpperCase()) ) {
 
             return "--";
         }
